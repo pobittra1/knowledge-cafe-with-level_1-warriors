@@ -1,53 +1,52 @@
 [
-    {
-      "id": "001",
-      "cover_img": "https://ibb.co/VDS0T1Z",
-      "author": "John Doe",
-      "author_img": "https://ibb.co/0mQpW3n",
-      "title": "The Art of Programming",
-      "posted_date": "April 1, 2024",
-      "watch_time": 25,
-      "hashtags": ["#programming", "#coding"]
-    },
-    {
-      "id": "002",
-      "cover_img": "https://ibb.co/bzQ5M5L",
-      "author": "Jane Smith",
-      "author_img": "https://ibb.co/TTp3fx1",
-      "title": "Exploring Astrophysics",
-      "posted_date": "March 28, 2024",
-      "watch_time": 30,
-      "hashtags": ["#astrophysics", "#space"]
-    },
-    {
-      "id": "003",
-      "cover_img": "https://ibb.co/WWK82hY",
-      "author": "Michael Johnson",
-      "author_img": "https://ibb.co/yW4NctD",
-      "title": "Cooking with Passion",
-      "posted_date": "March 30, 2024",
-      "watch_time": 40,
-      "hashtags": ["#cooking", "#food"]
-    },
-    {
-      "id": "004",
-      "cover_img": "https://ibb.co/KDmvpVW",
-      "author": "Emily Brown",
-      "author_img": "https://ibb.co/qpSJzjn",
-      "title": "Mindfulness Meditation",
-      "posted_date": "April 2, 2024",
-      "watch_time": 20,
-      "hashtags": ["#mindfulness", "#meditation"]
-    },
-    {
-      "id": "005",
-      "cover_img": "https://ibb.co/6N1SZNY",
-      "author": "David Lee",
-      "author_img": "https://ibb.co/D46xR95",
-      "title": "Financial Freedom Strategies",
-      "posted_date": "March 29, 2024",
-      "watch_time": 35,
-      "hashtags": ["#finance", "#investing"]
-    }
-  ]
-  
+  {
+    "id": "001",
+    "cover_img": "https://i.ibb.co/QnN7MgR/blog-website-development-data-network-concept.jpg",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/NS8rhTC/download-6.jpg",
+    "title": "The Art of Programming",
+    "posted_date": "April 1, 2024",
+    "watch_time": 25,
+    "hashtags": ["#programming", "#coding"]
+  },
+  {
+    "id": "002",
+    "cover_img": "https://i.ibb.co/TmYMxMR/technology-communication-icons-symbols-concept.jpg",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/N9mMCqt/download-5.jpg",
+    "title": "Exploring Astrophysics",
+    "posted_date": "March 28, 2024",
+    "watch_time": 30,
+    "hashtags": ["#astrophysics", "#space"]
+  },
+  {
+    "id": "003",
+    "cover_img": "https://i.ibb.co/XZJ0CQv/tablet-which-you-can-read-blog.jpg",
+    "author": "Michael Johnson",
+    "author_img": "https://i.ibb.co/94tN5cB/download-4.jpg",
+    "title": "Cooking with Passion",
+    "posted_date": "March 30, 2024",
+    "watch_time": 40,
+    "hashtags": ["#cooking", "#food"]
+  },
+  {
+    "id": "004",
+    "cover_img": "https://i.ibb.co/vhDn6Lk/blogger-isometric-web-site-landing-page-with-human-character-cloud-pictograms-with-clickable-links-1.jpg",
+    "author": "Emily Brown",
+    "author_img": "https://i.ibb.co/wSvP68m/download-2.jpg",
+    "title": "Mindfulness Meditation",
+    "posted_date": "April 2, 2024",
+    "watch_time": 20,
+    "hashtags": ["#mindfulness", "#meditation"]
+  },
+  {
+    "id": "005",
+    "cover_img": "https://i.ibb.co/3kMbsk1/social-media-business-concept-with-wooden-blocks-spiral-notebook-glasses-pen-white-background-flat-l.jpg",
+    "author": "David Lee",
+    "author_img": "https://i.ibb.co/KDSNjkK/download.jpg",
+    "title": "Financial Freedom Strategies",
+    "posted_date": "March 29, 2024",
+    "watch_time": 35,
+    "hashtags": ["#finance", "#investing"]
+  }
+]
