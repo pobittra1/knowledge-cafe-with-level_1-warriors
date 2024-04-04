@@ -2,10 +2,17 @@ import PropTypes from "prop-types";
 import { FaRegBookmark } from "react-icons/fa";
 const Blog = ({ blog }) => {
   console.log(blog);
-  const { title, author, cover_img, author_img, posted_date, watch_time } =
-    blog;
+  const {
+    title,
+    author,
+    cover_img,
+    author_img,
+    posted_date,
+    watch_time,
+    hashtags,
+  } = blog;
   return (
-    <div className="w-full mb-12 space-y-3">
+    <div className="w-full mb-12 space-y-3 border border-green-300 p-4">
       <img className="w-full h-1/3" src={cover_img} alt="img not available" />
 
       <div className="flex justify-between items-center px-4">
@@ -27,7 +34,14 @@ const Blog = ({ blog }) => {
         </div>
       </div>
       <h2 className="ps-4 text-3xl font-semibold">{title}</h2>
-
+      <p className="mx-4 text-gray-500">
+        {hashtags.map((singleHashTags, idx) => (
+          <span className="mx-2" key={idx}>
+            {singleHashTags}
+          </span>
+        ))}
+      </p>
+      <p className="text-purple-500 underline ms-4 cursor-pointer">mark as read</p>
     </div>
   );
 };
