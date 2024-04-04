@@ -3,7 +3,7 @@
 const Bookmarks = () => {
     return (
         <div className="md:w-1/3">
-            <p>bookmarks</p>
+            <h2>Bookmarks blog: </h2>
         </div>
     );
 };
