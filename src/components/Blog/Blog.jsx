@@ -2,6 +2,7 @@ import PropTypes from "prop-types";
 import { FaRegBookmark } from "react-icons/fa";
 const Blog = ({ blog, handleBookmarks, handleTime }) => {
   const {
+    id,
     title,
     author,
     cover_img,
@@ -45,7 +46,7 @@ const Blog = ({ blog, handleBookmarks, handleTime }) => {
       </p>
       <p
         className="text-purple-500 underline ms-4 cursor-pointer"
-        onClick={() => handleTime(watch_time)}
+        onClick={() => handleTime(id,watch_time)}
       >
         mark as read
       </p>
